@@ -1,5 +1,5 @@
 # Set the default eol behavior for text files
-* text eol=lf
+* text=auto eol=lf
 
 # 
 *.c text
