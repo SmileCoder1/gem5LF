@@ -1,0 +1,7 @@
+# Set the default eol behavior for text files
+* text eol=lf
+
+# 
+*.c text
+*.h text
+*.py text
